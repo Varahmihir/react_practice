@@ -1,0 +1,43 @@
+{
+  "employees": [],
+  "products": [
+    {
+      "id": "0c20",
+      "name": "gj",
+      "price": "56575",
+      "category": "jbj"
+    }
+  ],
+  "qsns":[
+    {
+      "id":"0",
+      "title":"what is class",
+      "o1":"a blueprint",
+      "o2":"a instance",
+      "ans":"a blueprint"
+    },
+    {
+      "id":"1",
+      "title":"what is react",
+      "o1":"a js framework",
+      "o2":"a js library",
+      "ans":"a js library"
+    },
+    {
+      "id":"2",
+      "title":"what is hook",
+      "o1":"a function",
+      "o2":"a class",
+      "ans":"a function"
+
+    },
+    {
+      "id":"3",
+      "title":"what is jsx",
+      "o1":"js xml",
+      "o2":"js extended",
+      "ans":"js extended"
+    }
+
+  ]
+}

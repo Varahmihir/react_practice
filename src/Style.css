@@ -30,3 +30,20 @@
     top:65.35vh;
 z-index: -1;
   }
+.todolist{
+  width: 40vw;
+  min-width: 40vw;
+  min-height: 40vh;
+  margin: 10px;
+  padding: 10px;
+}
+.comp{
+  width: 40vw;
+  min-width: 40vh;
+  min-height: 40vh;
+  margin: 10px;
+  padding: 10px;
+}
+li{
+padding: 5px;
+}
